@@ -1,6 +1,6 @@
 # Signals-Threads
-### Author: Tamara Alhajj
-### COMP 3000 Exercise 5 
+Author: Tamara Alhajj <br />
+COMP 3000 Exercise 5
 
 ## Purpose:
 Implementing the signal SIGUSR1.
